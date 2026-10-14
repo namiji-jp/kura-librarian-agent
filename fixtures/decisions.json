@@ -1,0 +1,7 @@
+{
+  "fixture_notice": "Synthetic, authored only to exercise the workflow. These are not historical Jev decisions or evidence of model quality.",
+  "decisions": [
+    {"new_page_title": "Coastal route analysis", "candidate_title": "Coastal route project", "confidence": 0.86},
+    {"new_page_title": "Rail disruption checklist", "candidate_title": null, "confidence": 0.0}
+  ]
+}

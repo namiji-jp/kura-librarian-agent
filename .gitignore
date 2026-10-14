@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+scripts/state_*.json
+scripts/kura_scan_homes.json
+scripts/store/linked.json
+workspace/*-draft.md
+.env
+.env.*
